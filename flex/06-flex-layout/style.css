@@ -40,7 +40,8 @@ a {
   color: black;
 }
 
-.header {
+.header,
+.footer {
   display: flex;
   justify-content: space-between;
   padding: 16px;
@@ -50,4 +51,8 @@ a {
 .right-links {
   display: flex;
   gap: 15px;
+}
+
+.footer {
+  background-color: #eeeeee;
 }
