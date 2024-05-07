@@ -31,5 +31,5 @@ Note: The emojis may instead show up as one or several text symbols (e.g. &#9734
 - `Y` The sidebar is 300px wide (and it doesn't shrink).
 - `Y` The sidebar links are size 24px, are white, and do not have the underline text decoration.
 - `Y` The sidebar has 16px padding.
-- There is 32px padding around the 'cards' section.
-- The cards are arranged horizontally, but wrap to multiple lines when they run out of room on the page.
+- `Y` There is 32px padding around the 'cards' section.
+- `Y` The cards are arranged horizontally, but wrap to multiple lines when they run out of room on the page.
